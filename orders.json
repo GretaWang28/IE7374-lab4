@@ -1,0 +1,3 @@
+{"order_id": "001", "customer_name": "Alice Smith", "product": "Laptop", "quantity": 2, "price": 999.99}
+{"order_id": "002", "customer_name": "Bob Jones", "product": "Mouse", "quantity": 5, "price": 19.99}
+{"order_id": "003", "customer_name": "Carol White", "product": "Keyboard", "quantity": 3, "price": 49.99}

@@ -1,0 +1,16 @@
+orders:
+  - name: order_id
+    type: STRING
+    mode: NULLABLE
+  - name: customer_name
+    type: STRING
+    mode: NULLABLE
+  - name: product
+    type: STRING
+    mode: NULLABLE
+  - name: quantity
+    type: INTEGER
+    mode: NULLABLE
+  - name: price
+    type: FLOAT
+    mode: NULLABLE
